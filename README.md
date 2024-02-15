@@ -10,7 +10,6 @@ Additionally, you can invite OmniBot to your server here to enjoy its wide range
 https://discord.com/api/oauth2/authorize?client_id=1207463639095705660&permissions=8&scope=bot
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Why OmniBot?
 If your wondering to yourself, Why should I use OmniBot? Thats great! We are here to answer that for you :smile:
@@ -21,7 +20,6 @@ Second off, OmniBot offers never seen before features all combined into one bot,
 
 OmniBot is 100% safe aswell, we will never use our bot in the matter of harm or untrust, the bot is only accessed by secure database panels on our own Virtual Dedicated Machine. To entrust the best ping for all we have chose to locate this VM in Atlanta Georgia In the South Eastern region of the USA.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Discord Link:
